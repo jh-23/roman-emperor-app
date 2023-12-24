@@ -1,40 +1,46 @@
-
 {
-    "emperors": [
-      {
-        "id": 1,
-        "name": "Caesar Augustus",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
-        "reign": "27 BC - 14 AD",
-        "info": "Julius Caesar’s adopted son, Augustus Caesar, was the first Emperor to rule Ancient Rome, from 27 BC – 14 AD. After winning a deadly battle against Mark Antony and Cleopatra, Augustus became a benevolent leader, ushering in a period of stability known as the Pax Romana, which he maintained through strict, military control. As well as claiming land in Europe and Asia Minor, Augustus expanded roads, built aqueducts and commissioned architecture and sculpture. He even named a month after himself – changing Sextilis, the sixth month, to August!"
-      },
-      {
-        "id": 2,
-        "name": "Nero",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/1280px-Nero_Glyptothek_Munich_321.jpg",
-        "reign": "54 AD - 68 AD",
-        "info": "Starting out as an emperor when he was just 17, Nero supported the arts, commissioned a series of magnificent buildings and lowered tax rates. He even ordered public games to be held every five years. But things quickly turned sour, and he began executing anyone who dared to disagree with him, even his own mother. When much of Rome burned down, some speculated that he started the fire, particularly when he had a new, 100-acre palace erected in its place, with a 100-foot statue of himself in the center, called the Colossus of Nero."
-      },
-      {
-        "id": 3,
-        "name": "Trajan",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CVT_APX_Amphitheater_Traiansstatue.jpg/1024px-CVT_APX_Amphitheater_Traiansstatue.jpg",
-        "reign": "98 AD - 117 AD",
-        "info": "Often in the conversation for “greatest Roman emperor” by historians, Marcus Ulpius Traianus was the second Roman emperor in the Nerva-Antonine dynasty commonly referred to as Rome’s “Golden Age.” Bolstered by one of the greatest military expansions in Roman history, Trajan’s reign marked the peak of Rome’s geographic expansion, as it covered nearly 1.7 million kilometers of territory in Europe, Africa and Asia and boasted nearly 57 million people. In addition to his military successes, Trajan also oversaw many ambitious building projects, including the still-standing architectural marvel, Trajan’s Column. He also expanded Augustus’ financial aid programs for poor Roman citizens, in turn providing one of the earliest examples in history of a federal welfare program."
-      },
-      {
-        "id": 4,
-        "name": "Marcus Aurelius",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/1280px-MSR-ra-61-b-1-DM.jpg",
-        "reign": "161 AD - 180 AD",
-        "info": "Led by the ‘Platonic King’ concept from Plato’s Republic text, Marcus Aurelius believed a true leader should place his own needs before those of his people. Though he was forced to defend Roman territory in the Marcomannic Wars, he was essentially a peaceful man, and he lived out the Stoic Philosophy. In his later years, he composed a series of essays titled Meditations, which outlined lessons on how to be wise and honorable. He is known today as the last of the “Five Good Emperors.”"
-      },
-      {
-        "id": 5,
-        "name": "Commodus",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Commodus_Musei_Capitolini_MC1120.jpg",
-        "reign": "177 AD - 192 AD",
-        "info": "In sharp contrast with his peaceful father Marcus Aurelius, Commodus has gone down in history as Rome’s cruelest emperor. Spoilt and indulgent, he fashioned himself as an omnipotent Gladiator who enjoyed killing for sport, styling himself on Hercules by wearing a lion skin. But he deliberately chose battles with competitors who were weak and defenseless, knowing he would win. Such was his arrogance that he even changed his name to Hercules, and tried to have himself named as a living god. His reckless behavior led Rome into financial ruin and civil war, sparking a chain reaction that eventually collapsed the entire Empire."
-      }
-    ]
+  "emperors": [
+    {
+      "id": 1,
+      "name": "Caesar Augustus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+      "reign": "27 BC - 14 AD",
+      "info": "Julius Caesar’s adopted son, Augustus Caesar, was the first Emperor to rule Ancient Rome, from 27 BC – 14 AD. After winning a deadly battle against Mark Antony and Cleopatra, Augustus became a benevolent leader, ushering in a period of stability known as the Pax Romana, which he maintained through strict, military control. As well as claiming land in Europe and Asia Minor, Augustus expanded roads, built aqueducts and commissioned architecture and sculpture. He even named a month after himself – changing Sextilis, the sixth month, to August!"
+    },
+    {
+      "id": 2,
+      "name": "Nero",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/1280px-Nero_Glyptothek_Munich_321.jpg",
+      "reign": "54 AD - 68 AD",
+      "info": "Starting out as an emperor when he was just 17, Nero supported the arts, commissioned a series of magnificent buildings and lowered tax rates. He even ordered public games to be held every five years. But things quickly turned sour, and he began executing anyone who dared to disagree with him, even his own mother. When much of Rome burned down, some speculated that he started the fire, particularly when he had a new, 100-acre palace erected in its place, with a 100-foot statue of himself in the center, called the Colossus of Nero."
+    },
+    {
+      "id": 3,
+      "name": "Trajan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CVT_APX_Amphitheater_Traiansstatue.jpg/1024px-CVT_APX_Amphitheater_Traiansstatue.jpg",
+      "reign": "98 AD - 117 AD",
+      "info": "Often in the conversation for “greatest Roman emperor” by historians, Marcus Ulpius Traianus was the second Roman emperor in the Nerva-Antonine dynasty commonly referred to as Rome’s “Golden Age.” Bolstered by one of the greatest military expansions in Roman history, Trajan’s reign marked the peak of Rome’s geographic expansion, as it covered nearly 1.7 million kilometers of territory in Europe, Africa and Asia and boasted nearly 57 million people. In addition to his military successes, Trajan also oversaw many ambitious building projects, including the still-standing architectural marvel, Trajan’s Column. He also expanded Augustus’ financial aid programs for poor Roman citizens, in turn providing one of the earliest examples in history of a federal welfare program."
+    },
+    {
+      "id": 4,
+      "name": "Marcus Aurelius",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/1280px-MSR-ra-61-b-1-DM.jpg",
+      "reign": "161 AD - 180 AD",
+      "info": "Led by the ‘Platonic King’ concept from Plato’s Republic text, Marcus Aurelius believed a true leader should place his own needs before those of his people. Though he was forced to defend Roman territory in the Marcomannic Wars, he was essentially a peaceful man, and he lived out the Stoic Philosophy. In his later years, he composed a series of essays titled Meditations, which outlined lessons on how to be wise and honorable. He is known today as the last of the “Five Good Emperors.”"
+    },
+    {
+      "id": 5,
+      "name": "Commodus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Commodus_Musei_Capitolini_MC1120.jpg",
+      "reign": "177 AD - 192 AD",
+      "info": "In sharp contrast with his peaceful father Marcus Aurelius, Commodus has gone down in history as Rome’s cruelest emperor. Spoilt and indulgent, he fashioned himself as an omnipotent Gladiator who enjoyed killing for sport, styling himself on Hercules by wearing a lion skin. But he deliberately chose battles with competitors who were weak and defenseless, knowing he would win. Such was his arrogance that he even changed his name to Hercules, and tried to have himself named as a living god. His reckless behavior led Rome into financial ruin and civil war, sparking a chain reaction that eventually collapsed the entire Empire."
+    },
+    {
+      "name": "Constantine I ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg",
+      "reign": "306 AD - 337 AD ",
+      "info": "Ruling Rome from 306 – 337 AD, Constantine the Great made dramatic changes that would forever alter the course of its’ history. He fought the previous tetrarchy that put four leaders in charge of the huge and unwieldy landmass, seizing sole control for himself. In an unexpected turn of events, a visionary experience led him to accept Christianity as the dominant religion for Roman society. And perhaps most significantly, he formed a new, imperial capital led by Christianity in Constantinople, named after himself, a move that would eventually split apart the Roman Empire.",
+      "id": 6
+    }
+  ]
 }

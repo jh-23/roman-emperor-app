@@ -6,6 +6,11 @@ function EmperorContainer() {
 
     const [emperors, setEmperors] = useState([]);
 
+    function handleAddNewEmperor(newEmperor) {
+        const updatedEmperors = [...emperors, newEmperor]
+        setEmperors(updatedEmperors);
+    }
+
     useEffect(() => {
         fetch("http://localhost:3000/emperors")
             .then((r) => r.json())
@@ -15,7 +20,7 @@ function EmperorContainer() {
     return (
         <main>
             <EmperorList emperors={emperors} />
-            <EmperorForm />
+            <EmperorForm onAddNewEmperor={handleAddNewEmperor} />
         </main>
 
     );
